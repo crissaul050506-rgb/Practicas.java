@@ -1,7 +1,6 @@
 /*
 Nombre del programa:Calcular_serie.java
 Autor: Cristhian saul santiago bazan
-Grupo:302-B
 */
 import java.util.*;
 
