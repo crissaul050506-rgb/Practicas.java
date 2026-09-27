@@ -1,7 +1,6 @@
 /*
 Nombre del programa: Digitos.java
 Autor: Cristhian saul santiago bazan
-Grupo:302-B
 */
 import java.util.Scanner;
 
