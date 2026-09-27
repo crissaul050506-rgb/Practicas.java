@@ -1,7 +1,6 @@
 /*
 Nombre del programa:Bits_mod.java
 Autor: Cristhian saul santiago Bazan
-Grupo: 302-B
 */
 import java.util.Scanner;
 public class Bits_mod {
