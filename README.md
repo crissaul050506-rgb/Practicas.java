@@ -1,7 +1,7 @@
 # Practicas.java
 Prácticas de Java
 
-Repositorio que contiene ejercicios y prácticas de  durante mi carrera en  Ingeniería en Computación.
+Repositorio que contiene ejercicios y prácticas de java durante mi carrera en  Ingeniería en Computación.
 
 Contenido
 /* Fundamentos de Java
