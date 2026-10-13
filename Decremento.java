@@ -1,7 +1,6 @@
 /*
 Nombre del programa: Decremento.java
 Autor: Cristhian saul santiago bazan
-Grupo:302-B
 */
 public class Decremento {
    public static void main(String[] args) {
