@@ -1,7 +1,6 @@
 /*
 Nombre del programa: Compara.java
 Autor: Cristhian saul santiago bazan
-Grupo:302-B
 */
 import java.util.Scanner;
 
